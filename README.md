@@ -6,7 +6,9 @@ Built on [Moth Quantum](https://mothquantum.com)'s Atlas engines `qrc-train-v2` 
 
 **[How it works, interactively →](https://digitalbath.github.io/quantum-pond/)** A pond stands in for the qubits: drop stones, tap a rhythm, fit a readout and let it play on.
 
-![Quantum Variations](docs/quantum-variations.jpg)
+[![Quantum Variations demo video](docs/quantum-variations.jpg)](https://www.youtube.com/watch?v=W952otI3WOI)
+
+**[Watch the demo on YouTube →](https://www.youtube.com/watch?v=W952otI3WOI)**
 
 ## How it works
 
