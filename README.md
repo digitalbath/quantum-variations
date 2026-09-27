@@ -4,7 +4,7 @@ A Max for Live MIDI effect for Ableton Live. It learns the phrase in a MIDI clip
 
 Built on [Moth Quantum](https://mothquantum.com)'s Atlas engines `qrc-train-v2` and `qrc-gen-v2` (quantum reservoir computing). Made for Moth Hack 2026, challenge 7: Make a VST or AU.
 
-**[How it works, interactively →](https://digitalbath.github.io/quantum-pond/)** A pond stands in for the qubits: drop stones, tap a rhythm, fit a readout and let it play on.
+**[Project write-up and interactive explainer →](https://joport.us/labs/quantum-variations)** A pond stands in for the qubits: drop stones, tap a rhythm, fit a readout and let it play on.
 
 [![Quantum Variations demo video](docs/quantum-variations.jpg)](https://www.youtube.com/watch?v=W952otI3WOI)
 
