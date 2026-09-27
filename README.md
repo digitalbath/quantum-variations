@@ -6,9 +6,9 @@ Built on [Moth Quantum](https://mothquantum.com)'s Atlas engines `qrc-train-v2` 
 
 **[Project write-up and interactive explainer →](https://joport.us/labs/quantum-variations)** A pond stands in for the qubits: drop stones, tap a rhythm, fit a readout and let it play on.
 
-[![Quantum Variations demo video](docs/quantum-variations.jpg)](https://www.youtube.com/watch?v=W952otI3WOI)
+[![Quantum Variations presentation video](docs/quantum-variations.jpg)](https://youtu.be/8Qg90ZkuqpA)
 
-**[Watch the demo on YouTube →](https://www.youtube.com/watch?v=W952otI3WOI)**
+**[Watch the presentation on YouTube →](https://youtu.be/8Qg90ZkuqpA)**
 
 ## How it works
 
