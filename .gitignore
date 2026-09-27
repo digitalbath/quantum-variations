@@ -1,0 +1,5 @@
+.env
+last_*.json
+.DS_Store
+QuantumVariations.maxpat
+CLAUDE.md
